@@ -31,5 +31,4 @@ Siga os passos a seguir para jogar:
 - [Clona o repositório ou faça o download do ZIP](https://github.com/msHoffmann/infnet-hangman)
 - Vá para o terminal e digite `npm install`
 - Continue no terminal e rode `node index.js`
-- Jogue no terminal!
-# infnet-hangman
+- Jogue no terminal
